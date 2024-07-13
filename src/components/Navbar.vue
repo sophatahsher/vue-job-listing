@@ -16,7 +16,7 @@ const isActiveLink = (routePath) => {
             :class="['flex', 'items-center', 'space-x-3', 'rtl:space-x-reverse']"
             >
                 <img class="h-10 w-auto" v-bind:src="logo" alt="NannyWorks"/>
-                <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">TverWorks</span>
+                <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Job365</span>
             </RouterLink>
             <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
                 <RouterLink
@@ -80,9 +80,6 @@ const isActiveLink = (routePath) => {
                     >
                     Post a Job
                     </RouterLink>
-                </li>
-                <li>
-                    <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
                 </li>
                 </ul>
             </div>
