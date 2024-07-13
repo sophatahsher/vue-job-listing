@@ -1,2 +1,35 @@
-# vue-job-listing
-This repository contains a job listing application built with Vue.js. The app allows users to browse, search, and filter job postings with a dynamic and responsive interface. It leverages Vue's powerful reactivity system to provide a smooth user experience and features components for job details, search functionality, and category filters. 
+# help-project-vue
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
